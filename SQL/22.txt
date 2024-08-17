@@ -1,0 +1,6 @@
+Lay từng sản phẩm : tênSP
+So luong trong kho - bán ra = tồn kho
+Bản SP lấy tên số lượng
+Số lượng đổ vào sổ lượng nhập vào
+Số lượng bán ra dựa vào hdct dựa vào mã sp (số lượng nhập vào - số lượng bán ra) 
+= số lượng tồn kho , sẽ  hiển thi lên bản tồn kho

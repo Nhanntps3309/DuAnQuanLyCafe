@@ -1,0 +1,6 @@
+thêm 1 cột số tiền Tiền nhập hàng : (bảng sản phẩm) + các giá lại(không cần thgian)
+Tổng tiền đổi thành Số : Tiền bán được(cần thời gian)
+Thêm cột Lợi nhuận =  Tiền bán được- số tiền nhập hàng
+
+(Thêm giá nhập float, trạng thái => số lượng int)
+ 

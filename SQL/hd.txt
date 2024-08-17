@@ -1,0 +1,3 @@
+Bảng SanPham: lấy tên -> tên sản phẩm , số lượng -> số lượng nhập vào
+Dựa vào bảng hdct: số lượng nhập vào - số lượng bán ra  = số lượng tồn kho -> số lượng tồn kho
+Dựa vào bảng hdct: số lượng   -> số lượng bán ra
